@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Data Modeling"
+date:   2021-10-12
+categories: update info
+author: Campbell Cooke
+---
+
+I struggled with this lab much more than I've struggled with any of the labs in the past. This lab unfortunately consisted of mostly trying to
+do something that I didn't understand in a coding language that I didn't understand. The tutorial was very useful, but parts of this project
+still felt like a slog as I frequently experienced errors even trying to follow the tutorial as closely as possible. The biggest struggle I
+had was understanding how to get the database to update and receive data from the seed data file.
+
+I managed to get through the tutorial and make the movies page with not too much fighting though. The real problems occurred when trying to make
+my own in step 2. I'm still not exactly sure what happened, but something with the auto generation of the files didn't work properly, and I spent
+almost 2 hours trying to figure out what went wrong and how I could fix it before just deciding to entirely restart which I think did end up saving
+me time overall.
+
+Here's a link to my [Github Project][github] that is a database for keeping track of challenge bombs in the game Keep Talking and Nobody Explodes
+
+Razor seems relatively similar to the way that Jekyll worked where it attempts to do most of the work for you and simplify most of the coding into
+simple text, but also at the same time Razor is much harder to use and more complicated. I think I managed to get my Razor knowledge to a decent level,
+so I would be at least semi-confident in making another Razor application.
+
+
+
+[github]: https://github.com/cookec98/csci340lab7
