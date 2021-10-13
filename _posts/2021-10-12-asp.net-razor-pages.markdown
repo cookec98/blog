@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Modeling"
+title:  "Razor Pages"
 date:   2021-10-12
 categories: update info
 author: Campbell Cooke
